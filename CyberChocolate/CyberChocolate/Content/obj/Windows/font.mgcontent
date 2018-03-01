@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/font.spritefont</SourceFile>
+  <SourceTime>2017-07-11T14:29:55.8188422+02:00</SourceTime>
+  <DestFile>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2017-10-30T13:47:54.7720229+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

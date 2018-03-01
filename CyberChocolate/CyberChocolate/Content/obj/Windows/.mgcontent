@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Head.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Arm 2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Arm.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Foot.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Hand.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Leg 2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Left Leg.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia right arm 2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Right Arm.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Right Food.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Right hand.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Right Leg 2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Right Leg.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia Torso.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Background/background.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/font.spritefont</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot body.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot head.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot left arm.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot left hand.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot right arm.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/police robot right hand.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia.scml</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Elidia_Shield.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Gun_Exp.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Shield_Hit.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/spark.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/spark2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia Parts side view/Bullet.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Devices/Images/door.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Devices/Door.scml</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/HP.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/KeyCard.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Devices/HackingPanel.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Gui/GUI_Elidia.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Gui/KeyCard.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/police_robot.scml</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/shine.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/sparkle 1.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Enemies/pieces/sparkle 2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/exitGame.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/exitGameActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/MainMenu.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/startGame.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/startGameActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Pause/Pause.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Pause/resumeGame.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Pause/resumeGameActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Pause/returnToMenu.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Pause/returnToMenuActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/CyberChocolate.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/background_wall.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building155.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building156.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building157.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building161.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building177.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building179.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building186.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building187.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building188.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building189.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building202.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building204.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building252.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building254.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building262.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building263.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building264.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building277.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building278.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building279.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building284.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building285.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building288.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building289.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building303.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building304.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building310.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building312.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building614.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/building615.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/floor.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/floor_road.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/floor2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/floor3.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/road.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/wall.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/wood.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Obstacles/window.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/GameOver/gameover.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/GameOver/restartGame.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/GameOver/restartGameActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/GameOver/returnToMenuActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/GameOver/returnToMenu.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Particle/fireSpark1.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Particle/fireSpark2.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Background/building1.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Background/paproc.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Background/palma.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Gui/shootingBar.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Gui/shootingBarActive.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Devices/ControlPanel.png</File>
+    <File>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/MainMenu/Evil_Cake.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,133 @@
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\font.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Background\background.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Background\building1.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Background\palma.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Background\paproc.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Devices\ControlPanel.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Devices\Door.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Devices\HackingPanel.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Devices\Images\door.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Bullet.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Head.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Arm 2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Arm.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Foot.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Hand.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Leg 2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Left Leg.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia right arm 2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Right Arm.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Right Food.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Right hand.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Right Leg 2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Right Leg.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia Torso.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Elidia_Shield.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Gun_Exp.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\Shield_Hit.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\spark.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Elidia Spriter\Elidia Parts side view\spark2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\police_robot.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot body.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot head.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot left arm.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot left hand.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot right arm.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\police robot right hand.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\shine.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\sparkle 1.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Enemies\pieces\sparkle 2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameOver\gameover.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameOver\restartGame.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameOver\restartGameActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameOver\returnToMenu.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameOver\returnToMenuActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Gui\GUI_Elidia.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Gui\KeyCard.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Gui\shootingBar.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Gui\shootingBarActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\Evil_Cake.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\exitGame.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\exitGameActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\MainMenu.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\startGame.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\MainMenu\startGameActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\background_wall.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building155.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building156.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building157.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building161.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building177.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building179.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building186.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building187.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building188.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building189.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building202.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building204.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building252.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building254.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building262.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building263.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building264.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building277.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building278.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building279.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building284.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building285.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building288.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building289.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building303.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building304.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building310.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building312.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building614.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\building615.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\CyberChocolate.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\floor.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\floor2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\floor3.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\floor_road.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\HP.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\KeyCard.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\road.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\wall.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\window.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Obstacles\wood.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Particle\fireSpark1.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Particle\fireSpark2.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Pause\Pause.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Pause\resumeGame.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Pause\resumeGameActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Pause\returnToMenu.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Pause\returnToMenuActive.xnb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\GameMap-level-1.tmx
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Tiles.tsx
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\Content\Objects.tsx
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\CyberChocolate.exe
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\CyberChocolate.pdb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SpriterDotNet.MonoGame.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\TiledSharp.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\TiledSharp.pdb
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\obj\x86\Release\CyberChocolate.csproj.CoreCompileInputs.cache
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\obj\x86\Release\CyberChocolate.exe
+C:\Users\Jędrzej\Desktop\Abyss\CyberChocolate\repositorychoclate\CyberChocolatea\CyberChocolate\obj\x86\Release\CyberChocolate.pdb

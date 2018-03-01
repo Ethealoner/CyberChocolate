@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="70" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="Tileset_Obstacles.tsx"/>
+ <layer name="Warstwa Kafelków 1" width="70" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOgCAQBED4/6ctbOwOjMqdzDQ0JGzI5gitwbi+OgCl6EtdPVjfPDOjzNlWyHAfGTJQRzTTRmbezN4nMvBvo33htPt96AszovdEX7gyXwC+5V8IAPcckIEALg==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/Elidia Spriter/Elidia.scml</SourceFile>
+  <SourceTime>2017-07-24T14:07:52.8631286+02:00</SourceTime>
+  <DestFile>C:/Users/Jędrzej/Desktop/Abyss/CyberChocolate/repositorychoclate/CyberChocolatea/CyberChocolate/Content/bin/Windows/Elidia Spriter/Elidia.xnb</DestFile>
+  <DestTime>2017-10-30T13:47:55.8889937+01:00</DestTime>
+  <Importer>SpriterImporter</Importer>
+  <ImporterTime>2017-03-30T13:12:34.0626229+02:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
